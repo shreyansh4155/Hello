@@ -1,6 +1,6 @@
 package good;
 class Good{
-    publicc static void main(String [] args)[
-        System.out.println("good");
+    public static void main(String [] args){
+        System.out.println("Hello world");
     }
 }
