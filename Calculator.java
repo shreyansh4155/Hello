@@ -34,7 +34,7 @@ public class Calculator {
                 result = num1 / num2;
                 break;
             default:
-                System.out.println("Invalid operator.");
+                System.out.println("Invalid operators.");
                 return;
         }
 
